@@ -1,4 +1,4 @@
-# 🛍️ Customer Shopping Behavior Analysis
+#  Customer Shopping Behavior Analysis
 
 <div align="center">
 
@@ -10,7 +10,8 @@
 
 
 
-
+<br>
+<br>
 
 
 
