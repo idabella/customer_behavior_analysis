@@ -1,5 +1,6 @@
-#  Customer Shopping Behavior Analysis
-
+# Customer Shopping Behavior Analysis 💜
+<br>
+<br>
 <div align="center">
 
 <!-- Dashboard screenshot -->
