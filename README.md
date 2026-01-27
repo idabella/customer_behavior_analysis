@@ -24,8 +24,6 @@
 
 This repository presents a comprehensive analysis of customer shopping behavior, designed to help businesses understand their customers better and optimize their strategies. Leveraging Python for data manipulation and analysis, SQL for structured data querying, and Power BI for interactive visualizations, this project dives into transactional data to extract actionable insights.
 
-The analysis focuses on identifying key spending patterns, segmenting customers based on their behavior, evaluating product performance, and deriving insights related to customer subscriptions. The goal is to provide a clear, data-driven understanding that can inform marketing campaigns, product development, and overall business strategy.
-
 ## ✨ Features
 
 - **🛒 Spending Pattern Identification:** Analyze purchase frequency, average transaction value, and preferred payment methods.
